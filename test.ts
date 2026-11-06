@@ -4,3 +4,6 @@ let active = true;
 
 userName = 10;
 console.log(userName);
+
+const message: string = "Hello World";
+console.log(message);
