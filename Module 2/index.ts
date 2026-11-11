@@ -8,4 +8,3 @@ console.log(typeof stringVar, typeof numberVar, typeof idk, typeof idk2);
 // Exercise 2
 let stringArray: string[] = ["John", "Peter", "Claire"];
 stringArray.push("Joseph");
-stringArray.push(12);
