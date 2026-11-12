@@ -11,3 +11,5 @@ stringArray.push("Joseph");
 let tuplaTest: [string, boolean] = ["Carl", true];
 tuplaTest = ["Julius", false];
 console.log(tuplaTest, stringArray);
+
+//Exercise 3
