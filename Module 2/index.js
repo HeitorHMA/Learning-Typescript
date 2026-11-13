@@ -13,8 +13,6 @@ let tuplaTest = ["Carl", true];
 tuplaTest = ["Julius", false];
 console.log(tuplaTest, stringArray);
 //Exercise 3
-let anyString = "any strgin here";
+let anyString = "any string here";
 console.log(anyString.toUpperCase());
-let unknowString = "unknown string here";
-console.log(unknowString.toUpperCase());
 //# sourceMappingURL=index.js.map
