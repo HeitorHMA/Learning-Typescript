@@ -13,3 +13,5 @@ tuplaTest = ["Julius", false];
 console.log(tuplaTest, stringArray);
 
 //Exercise 3
+let anyString: any = "any strgin here";
+console.log(anyString.toUpperCase);
